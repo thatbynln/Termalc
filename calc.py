@@ -15,8 +15,17 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
     return x / y
-
-
+print("*--------------------------*")
+print("*------------------------*")
+print("  ")
+print("TERMALC [Project Name]")
+print("Author : ThatBynln")
+print("Language : Python")
+print("   ")
+print("*------------------------*")
+print("*--------------------------*")
+print("   ")
+print("   ")
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
